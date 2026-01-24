@@ -1,0 +1,162 @@
+[
+  {
+    "id": 6804,
+    "success": true,
+    "type": "問い合わせ直前",
+    "ctaMid": "Standard",
+    "ctaEnd": "Strong",
+    "linksAdded": 3
+  },
+  {
+    "id": 6992,
+    "success": true,
+    "type": "問い合わせ直前",
+    "ctaMid": "Standard",
+    "ctaEnd": "Strong",
+    "linksAdded": 3
+  },
+  {
+    "id": 7995,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 7997,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 7998,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8003,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8005,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8008,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8024,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8033,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8117,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8118,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8128,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8129,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8130,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8135,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8136,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8137,
+    "success": true,
+    "type": "信頼構築",
+    "ctaMid": "Light",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8533,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  },
+  {
+    "id": 8534,
+    "success": true,
+    "type": "専門性証明",
+    "ctaMid": "Standard",
+    "ctaEnd": "Standard",
+    "linksAdded": 3
+  }
+]

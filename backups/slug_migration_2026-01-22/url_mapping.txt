@@ -1,0 +1,13 @@
+﻿URL Migration - 2026-01-22 12:30:31
+
+ID: 6992
+Name: 繧ｿ繧､莠ｺ譚千ｴｹ莉倶ｼ夂､ｾ
+OLD: https://kyujin.careerlink.asia/blog/タイ人材紹介会社/
+NEW: https://kyujin.careerlink.asia/blog/thailand-recruitment-agencies-2026/
+
+ID: 6804
+Name: 繝吶ヨ繝翫Β莠ｺ譚千ｴｹ莉倶ｼ夂､ｾ
+OLD: https://kyujin.careerlink.asia/blog/ベトナム人材紹介会社/
+NEW: https://kyujin.careerlink.asia/blog/vietnam-recruitment-agencies-2026/
+
+

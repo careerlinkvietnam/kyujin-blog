@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>The server could not handle your request</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+  <style type="text/css">
+  <!--
+  .style1 {font-family: Arial, Helvetica, sans-serif}
+  -->
+  </style>
+</head>
+
+<BODY>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="21">
+        <table width="778" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td align="center" valign="top">
+              <div align="center">
+                <p style="margin: 15px 0 30px;">
+                  <a href="/"><img src="/images/common/logo.png?v486" alt="キャリアリンクベトナム" border="0" height="52" /></a>
+                </p>
+              </div>
+              <p class="style2 style1">404エラー：ページが見つかりませんでした。<br></p>
+              <p class="style2 style1">申し訳ございません。エラーが発生した為このリクエストを完了することが出来ません。<br><br><br>
+                <a href="/">求人・仕事情報検索</a>
+                <br>
+                <br><br>
+                <a href="/">トップページへ戻る</a><br>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</BODY>
+</html>

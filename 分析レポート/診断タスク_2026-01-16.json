@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-01-16T18:00:00+09:00",
+  "diagnosis_summary": {
+    "total_score": 18,
+    "max_score": 100,
+    "status": "危機的",
+    "primary_issue": "トラフィックの97%以上が転職と無関係。CVに繋がる導線がゼロ。"
+  },
+  "tasks": [
+    {
+      "id": "S-001",
+      "priority": "S",
+      "title": "高トラフィック観光記事10本へのCTA注入",
+      "description": "月間9,374クリックある観光・生活記事にベトナム/マレーシア求人へのCTAを追加",
+      "action_manual": "【実行用】既存ページ最適化マニュアル.md",
+      "target_pages": [
+        {"url": "/blog/ハノイ・ロッテマート/", "clicks": 1557, "country": "ベトナム"},
+        {"url": "/blog/マレーシアの郵便番号/", "clicks": 1404, "country": "マレーシア"},
+        {"url": "/blog/ベトナムの郵便番号/", "clicks": 1294, "country": "ベトナム"},
+        {"url": "/blog/ハノイイオンモール/", "clicks": 895, "country": "ベトナム"},
+        {"url": "/blog/パソコンでベトナム語入力/", "clicks": 859, "country": "ベトナム"},
+        {"url": "/blog/ブンチャーハノイ/", "clicks": 737, "country": "ベトナム"},
+        {"url": "/blog/ハノイのお土産/", "clicks": 679, "country": "ベトナム"},
+        {"url": "/blog/ホーチミンイオンモール/", "clicks": 667, "country": "ベトナム"},
+        {"url": "/blog/わかると便利！-grabの使い方/", "clicks": 666, "country": "東南アジア"},
+        {"url": "/blog/ベトナムのお土産/", "clicks": 616, "country": "ベトナム"}
+      ],
+      "expected_impact": {
+        "additional_cta_clicks_per_month": "94-281",
+        "additional_registrations_per_month": "9-28",
+        "calculation_basis": "CTAクリック率1-3%、登録率10%"
+      },
+      "estimated_effort": "2-3時間",
+      "requires_approval": true
+    },
+    {
+      "id": "S-002",
+      "priority": "S",
+      "title": "高トラフィック観光記事への内部リンク追加",
+      "description": "観光記事から転職関連記事（40代ガイド、女性ガイド等）への内部リンクを追加",
+      "action_manual": "【実行用】既存ページ最適化マニュアル.md",
+      "target_pages": "S-001と同一",
+      "link_targets": [
+        "/blog/overseas-job-40s-guide/",
+        "/blog/overseas-job-without-english/",
+        "/blog/overseas-job-women-guide/",
+        "/blog/expat-vs-local-hire/",
+        "/blog/overseas-job-regret-prevention/"
+      ],
+      "expected_impact": "転職記事のPV増加、サイト内回遊率向上",
+      "estimated_effort": "1-2時間",
+      "requires_approval": true
+    },
+    {
+      "id": "A-001",
+      "priority": "A",
+      "title": "JobPosting Schema実装状況の確認",
+      "description": "求人詳細ページにJobPosting構造化データが実装されているか確認",
+      "action_manual": "【実行用】構造化データコード.md",
+      "check_method": "Google Rich Results Test または本番サイトのソース確認",
+      "expected_impact": "Google しごと検索への表示、求人ページ流入増",
+      "estimated_effort": "30分",
+      "requires_approval": false
+    },
+    {
+      "id": "A-002",
+      "priority": "A",
+      "title": "メタタグ最適化の適用状況確認",
+      "description": "トップページ、国別求人ページのtitle/descriptionが最適化されているか確認",
+      "action_manual": "【実行用】メタディスクリプション最適化.md",
+      "check_pages": [
+        "https://kyujin.careerlink.asia/",
+        "https://kyujin.careerlink.asia/thailand/job/list",
+        "https://kyujin.careerlink.asia/vietnam/job/list"
+      ],
+      "expected_impact": "転職キーワードでの検索順位改善",
+      "estimated_effort": "30分",
+      "requires_approval": false
+    },
+    {
+      "id": "A-003",
+      "priority": "A",
+      "title": "投稿済み転職記事8本のインデックス確認",
+      "description": "直近投稿した転職関連記事がGoogleにインデックスされているか確認",
+      "check_method": "Google Search Console > URL検査",
+      "target_articles": [
+        "overseas-job-40s-guide",
+        "overseas-job-without-english",
+        "expat-vs-local-hire",
+        "overseas-job-women-guide",
+        "vietnam-japanese-company-guide",
+        "overseas-job-regret-prevention"
+      ],
+      "expected_impact": "効果測定の開始、必要に応じてインデックス登録リクエスト",
+      "estimated_effort": "30分",
+      "requires_approval": false
+    },
+    {
+      "id": "B-001",
+      "priority": "B",
+      "title": "残りの高トラフィック記事（11-20位）へのCTA注入",
+      "description": "S-001完了後、次の10記事にもCTAを追加",
+      "action_manual": "【実行用】既存ページ最適化マニュアル.md",
+      "depends_on": ["S-001"],
+      "estimated_effort": "2時間",
+      "requires_approval": true
+    },
+    {
+      "id": "B-002",
+      "priority": "B",
+      "title": "「タイ 仕事 日本人」記事作成",
+      "description": "月間600検索のキーワードに対応する記事を作成",
+      "action_manual": "【実行用】AI完全自動化マニュアル.md",
+      "keyword": "タイ 仕事 日本人",
+      "search_volume": 600,
+      "depends_on": ["S-001", "S-002"],
+      "estimated_effort": "1時間",
+      "requires_approval": true
+    },
+    {
+      "id": "B-003",
+      "priority": "B",
+      "title": "「海外転職 新卒」記事作成",
+      "description": "月間350検索のキーワードに対応する記事を作成",
+      "action_manual": "【実行用】AI完全自動化マニュアル.md",
+      "keyword": "海外転職 新卒",
+      "search_volume": 350,
+      "depends_on": ["S-001", "S-002"],
+      "estimated_effort": "1時間",
+      "requires_approval": true
+    }
+  ],
+  "next_diagnosis": "2026-01-23",
+  "notes": [
+    "新規記事作成（優先度B以下）は、導線整備（優先度S）完了後に実行すること",
+    "CTA注入は人間の承認後に実行すること",
+    "効果測定は次回診断時に実施"
+  ]
+}

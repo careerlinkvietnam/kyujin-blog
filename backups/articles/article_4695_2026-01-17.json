@@ -1,0 +1,324 @@
+{
+  "id": 4695,
+  "date": "2022-10-05T14:18:41",
+  "date_gmt": "2022-10-05T07:18:41",
+  "guid": {
+    "rendered": "https://kyujin.careerlink.asia/blog/?p=4695"
+  },
+  "modified": "2023-01-06T10:38:52",
+  "modified_gmt": "2023-01-06T03:38:52",
+  "slug": "%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b",
+  "status": "publish",
+  "type": "post",
+  "link": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/",
+  "title": {
+    "rendered": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS)"
+  },
+  "content": {
+    "rendered": "<p>発音記号がついたベトナム語、ベトナム人はどうキーボードからパソコンに打っているんだろう？ベトナム語を勉強中だから打てるようになりたい。という方必見！</p>\n<p>今回は、Windows, Mac OSのパソコンのベトナム語入力についてご紹介していきます。</p>\n<div class=\"box_style box_style_blue\">\n<div class=\"box_inner\">\n<div class=\"box_style_title\"><span>この記事はこんな方におすすめ</span></div>\n<p>・ベトナム語を学習中の方でパソコンでベトナム語を入力する方法が分からない方<br />\n・パソコンを使ってベトナム語で検索したいけどやり方が分からない方</p>\n</div>\n</div>\n<h4><span class=\"line-yellow\"><strong>2種類のベトナム語入力方法</strong></span></h4>\n<p>ベトナム語入力には主に2つの方法があります。</p>\n<p>・TELEX式(アルファベットキー式)</p>\n<p>・VNI式(数字キー式)</p>\n<p><span>この２つはベトナム語の声調記号などの特殊文字の打ち方が違います。</span></p>\n<p>現在ベトナムではTelex入力が主流になっていて、スマホでベトナム語を入力する時もTELEX式なのでTELEX式で覚えておくと楽です:)</p>\n<p>そのため、この記事はTelexを設定していく方法を説明していきます。初めにWindowsから手順を説明していくので、Macユーザーの方は目次から飛んでください:)</p>\n<p>Windows では、お使いのWindowsのバージョンによって、ベトナム語の入力設定が変わりますのでお気をつけください。</p>\n<p>Windows 10より前の方→Unikeyをダウンロードする</p>\n<p>Windows 10をご利用の方→Windowsのベトナム語入力機能が使用可能(Unikeyをダウンロードして使うこともできます)</p>\n<p>どちらもこの記事で紹介していきます。</p>\n<h4><span class=\"line-yellow\"><strong>Windowsのベトナム語入力機能の設定</strong></span></h4>\n<p>WIndows 10では、２つの方法でTelex式ベトナム語入力機能が設定できます。</p>\n<ol>\n<li>Windowsのベトナム語入力機能を設定する</li>\n<li>フリーソフト「Unikey」をダウンロードする</li>\n</ol>\n<p>WIndows 10より前のバージョンをお使いの方は、Telex式ベトナム語入力機能を設定する場合、2つ目のUnikeyをダウンロードして設定することが必須なのでご注意ください。Windows 10のみ、フリーソフト「Unikey」を使うことなくTelex式でのベトナム語入力設定が可能です。</p>\n<p>この記事では初めに、Windowsのベトナム語入力機能を使った設定を紹介したのち、Unikeyのダウンロードから設定の仕方をご紹介します。</p>\n<h5><span class=\"line-orange\"><strong>Windows 10のベトナム語入力機能の設定</strong></span></h5>\n<p>まずは設定画面を開いていきます。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no1-for-setting-300x225.png\" alt=\"Windows設定\" width=\"681\" height=\"511\" class=\"alignnone wp-image-4696\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no1-for-setting-300x225.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no1-for-setting.png 326w\" sizes=\"auto, (max-width: 681px) 100vw, 681px\" /></p>\n<p>設定画面内にある「時刻と言語」を選択してください。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no2-for-menu-ò-setting-300x115.png\" alt=\"windows設定画面\" width=\"927\" height=\"355\" class=\"alignnone wp-image-4697\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no2-for-menu-ò-setting-300x115.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no2-for-menu-ò-setting-768x295.png 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no2-for-menu-ò-setting-1536x590.png 1536w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no2-for-menu-ò-setting.png 1600w\" sizes=\"auto, (max-width: 927px) 100vw, 927px\" /><br />\n早速言語を追加していきます。</p>\n<p>「言語」欄から、「優先する言語」の項目内の「言語の追加」をクリックします。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no4-for-adding-language-300x262.png\" alt=\"windows設定画面\" width=\"650\" height=\"568\" class=\"alignnone wp-image-4699\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no4-for-adding-language-300x262.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no4-for-adding-language-768x670.png 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no4-for-adding-language.png 919w\" sizes=\"auto, (max-width: 650px) 100vw, 650px\" /></p>\n<p>すると、「インストールする言語を選択してください」と出るので、「ベトナム語」と入力してください。</p>\n<p><span>「ベトナム語」が表示されるのでそちらをクリックし、画面下にある「次へ」を選択。</span></p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no⒌-for-adding-vietnamies-201x300.png\" alt=\"windows言語設定画面\" width=\"604\" height=\"902\" class=\"alignnone wp-image-4704\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no⒌-for-adding-vietnamies-201x300.png 201w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no⒌-for-adding-vietnamies.png 554w\" sizes=\"auto, (max-width: 604px) 100vw, 604px\" /></p>\n<p>オプション機能にある☑︎マークは外し、画面下のインストールをインストールすれば完了です。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no6-for-checking-211x300.jpg\" alt=\"windows言語設定画面\" width=\"526\" height=\"748\" class=\"alignnone wp-image-4705\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no6-for-checking-211x300.jpg 211w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no6-for-checking.jpg 556w\" sizes=\"auto, (max-width: 526px) 100vw, 526px\" /></p>\n<p>言語画面に「ベトナム語」が追加されました。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no7-for-confirm-197x300.png\" alt=\"windows言語設定\" width=\"549\" height=\"836\" class=\"alignnone wp-image-4701\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no7-for-confirm-197x300.png 197w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no7-for-confirm.png 509w\" sizes=\"auto, (max-width: 549px) 100vw, 549px\" /></p>\n<p>オプションを選択するとキーボードの形式が確認できます。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no8-for-telex-176x300.png\" alt=\"windows言語設定画面\" width=\"521\" height=\"888\" class=\"alignnone wp-image-4702\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no8-for-telex-176x300.png 176w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no8-for-telex.png 400w\" sizes=\"auto, (max-width: 521px) 100vw, 521px\" /></p>\n<p>キーボードの追加を選択すると、Windows式である「<span>QWERTY」も追加できるので必要な方は追加してみてください。</span></p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no9-for-changing-the-keyboard-198x300.png\" alt=\"windows言語設定画面\" width=\"535\" height=\"811\" class=\"alignnone wp-image-4703\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no9-for-changing-the-keyboard-198x300.png 198w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/no9-for-changing-the-keyboard.png 493w\" sizes=\"auto, (max-width: 535px) 100vw, 535px\" /></p>\n<h5><span class=\"line-orange\"><strong>フリーソフト「Unikey」を用いたベトナム語入力機能設定方法</strong></span></h5>\n<p>Windows 10より前のバージョンをお使いの方はこの手順に沿うことで、設定できます。<br />\n最初に、Unikeyをこのサイトからダウンロードしていきます。</p>\n<p><a href=\"https://www.unikey.org/\">https://www.unikey.org/</a></p>\n<p>この画面になったら「Download」を選択してください。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uniky-1-300x99.jpg\" alt=\"UniKeyダウンロード\" width=\"864\" height=\"285\" class=\"alignnone wp-image-4732\" style=\"font-size: 1.6em;\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uniky-1-300x99.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uniky-1-1024x339.jpg 1024w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uniky-1-1536x509.jpg 1536w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uniky-1.jpg 1599w\" sizes=\"auto, (max-width: 864px) 100vw, 864px\" /></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>UniKey 4.3 RCSというものが、最新バージョンのUniKeyです。</p>\n<p>お使いの使っているパソコンが、Windowsの64ビット版なら上を、32ビット版なら下をダウンロードします。</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uikey-2-300x239.jpg\" alt=\"UniKeyダウンロード\" width=\"630\" height=\"502\" class=\"alignnone wp-image-4731\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uikey-2-300x239.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/uikey-2.jpg 756w\" sizes=\"auto, (max-width: 630px) 100vw, 630px\" /></p>\n<p>ちなみに、自分のパソコンがWIndowsの何なのか、何ビットなのかわからない場合は……</p>\n<div style=\"margin: 0em; display: inline-block; position: relative; top: 3px; padding: 0 .5em; height: 1.5em; line-height: 1.5em; color: #ffffff; background: #b0c4de; font-weight: bold; text-align: center; border-radius: 5px 5px 0 0;\">＊私のパソコンは64bit? 34bit?</div>\n<div style=\"background: rgba(255,255,255,0); border: solid 3px #f0f8ff; border-radius: 0 5px 5px; padding: 20px; font-size: 100%;\">\n<p>Windows画面左下の「スタート」ボタンを右クリック「設定」を選択「システム」を選択</p>\n<p>左側にある「バージョン情報」を選択</p>\n<p>システムの種類という項目から確認できます。</p>\n</div>\n<p>&nbsp;</p>\n<p>では、自分のパソコンに合ったソフトを見つけたらクリックしてダウンロードします。</p>\n<p>ダウンロードし終わったらダウンロードされたファイルを右クリックして、「すべてを展開」をクリック。</p>\n<p><span>そうすると圧縮フォルダーが解凍されますので、UniKeyNTという項目を実行しましょう。</span></p>\n<p><span>あとは流れに合わせてインストールしていきます。</span></p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/telex-aettei-1-300x136.png\" alt=\"UniKey設定画面\" width=\"547\" height=\"248\" class=\"alignnone wp-image-4730\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/telex-aettei-1-300x136.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/telex-aettei-1.png 455w\" sizes=\"auto, (max-width: 547px) 100vw, 547px\" /></p>\n<p>この画面が出れば完成です！</p>\n<p>この画面になったら、<span>kiểu gõ (入力形式)の項目を</span>「Telex」にしてください。</p>\n<p><span>Mở rộng（開く）をクリックすると個人設定が出てきます。</span></p>\n<p>ここでは「Hệ thống（システム）」の部分について説明します。</p>\n<p>「Bật hội thoại này khi khởi động」は「起動時にこのダイヤログを表示させる」という意味です。ダイヤログが起動時に毎回表示されるのが嫌な場合は、チェックを外しましょう。</p>\n<p>「Khởi động cùng Windows」は「Windowsと一緒に起動させる」の意味です。ベトナム語入力を頻繁に使う場合は、これをチェックしておくと、プログラムを都度クリックして開かなくてもすぐ使用できる状態になります。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/IMG_7787-300x294.jpg\" alt=\"UniKey設定\" width=\"492\" height=\"482\" class=\"alignnone  wp-image-4750\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/IMG_7787-300x294.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/IMG_7787-1024x1004.jpg 1024w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/IMG_7787-768x753.jpg 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/IMG_7787.jpg 1170w\" sizes=\"auto, (max-width: 492px) 100vw, 492px\" /></p>\n<p>黄色の四角のボックス内の「Vietnamese Interface」のチェックを外すと、英語表記になるので分かりやすくなります。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/スクリーンショット-17-1-300x284.jpg\" alt=\"UniKey設定画面\" width=\"460\" height=\"436\" class=\"alignnone wp-image-4734\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/スクリーンショット-17-1-300x284.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/スクリーンショット-17-1.jpg 460w\" sizes=\"auto, (max-width: 460px) 100vw, 460px\" /></p>\n<p>設定が終わったらcloseを押して閉じることができます。</p>\n<h4><span class=\"line-yellow\"><strong>Mac OSのベトナム語入力設定</strong></span></h4>\n<p>Macでは、ベトナム語のキーボードが機能に元々入っているので、「UniKey」のダウンロードの必要はなく、設定画面から操作するのみです。</p>\n<p>まずは、設定画面に行きましょう。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-1-300x116.jpg\" alt=\"macの設定\" width=\"701\" height=\"271\" class=\"alignnone wp-image-4714\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-1-300x116.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-1.jpg 424w\" sizes=\"auto, (max-width: 701px) 100vw, 701px\" /></p>\n<p>「キーボード」をクリックしてください。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-2-300x183.jpg\" alt=\"mac設定画面\" width=\"702\" height=\"428\" class=\"alignnone wp-image-4715\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-2-300x183.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-2-1024x624.jpg 1024w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-2-768x468.jpg 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-2.jpg 1316w\" sizes=\"auto, (max-width: 702px) 100vw, 702px\" /></p>\n<p>「キーボード」を開いたら「入力ソース」のタブを選択し、左下の「＋」ボタンをクリックします。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-3-300x257.jpg\" alt=\"mac言語設定画面\" width=\"735\" height=\"630\" class=\"alignnone wp-image-4716\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-3-300x257.jpg 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-3-1024x878.jpg 1024w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-3-768x658.jpg 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-3.jpg 1318w\" sizes=\"auto, (max-width: 735px) 100vw, 735px\" /></p>\n<p>ここでベトナム語を選択。右側のボックスから「Simple Telex」をダブルクリックして追加します。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-4-300x198.png\" alt=\"mac言語設定画面\" width=\"858\" height=\"566\" class=\"alignnone wp-image-4712\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-4-300x198.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-4-1024x676.png 1024w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-4-768x507.png 768w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-4.png 1124w\" sizes=\"auto, (max-width: 858px) 100vw, 858px\" /></p>\n<p>追加されました！これで、ベトナム語が入力できます。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-かえ-300x227.png\" alt=\"mac言語設定画面\" width=\"744\" height=\"563\" class=\"alignnone wp-image-4719\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-かえ-300x227.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-かえ.png 734w\" sizes=\"auto, (max-width: 744px) 100vw, 744px\" /></p>\n<p>&nbsp;</p>\n<p>ベトナム語入力する時は、mac画面右上の言語変更を行ってから入力を始めてください。</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-6-300x238.png\" alt=\"mac言語変更\" width=\"652\" height=\"517\" class=\"alignnone wp-image-4717\" srcset=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-6-300x238.png 300w, https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/mac-6.png 360w\" sizes=\"auto, (max-width: 652px) 100vw, 652px\" /></p>\n<h4><span class=\"line-yellow\"><strong>早速入力してみよう！ベトナム語の入力方法</strong></span></h4>\n<p>では、さっそくベトナム語を入力していきましょう。テレックスでのベトナム語特有のアルファベット、声調記号の入力の仕方はこのようになってます。</p>\n<p>ベトナム語特有のアルファベットの打ち方はこちらの表の通りになります。</p>\n<table width=\"100%\">\n<tbody>\n<tr>\n<td width=\"435\"></td>\n<td width=\"194\"><strong>入力方法</strong></td>\n</tr>\n<tr>\n<td>â</td>\n<td>A + a</td>\n</tr>\n<tr>\n<td>ă</td>\n<td>A + w</td>\n</tr>\n<tr>\n<td>ơ</td>\n<td>O + w</td>\n</tr>\n<tr>\n<td>ô</td>\n<td>O + o</td>\n</tr>\n<tr>\n<td>ư</td>\n<td>U + w</td>\n</tr>\n<tr>\n<td>ê</td>\n<td>E + e</td>\n</tr>\n<tr>\n<td>đ</td>\n<td>D + d</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<h5><span class=\"line-orange\"><strong>声調記号の付け方</strong></span></h5>\n<p>次に声調記号の付け方です。今回はOを元に声調記号を紹介しますが、他の文字の場合でも同じやり方です。声調をつけたい文字の後ろにF, S, R, X, Jを付けます。</p>\n<table width=\"623\" height=\"352\">\n<tbody>\n<tr>\n<td width=\"538\"><strong>声調</strong></td>\n<td width=\"231\"><strong>入力方法</strong></td>\n</tr>\n<tr>\n<td>Ò</td>\n<td>O+ f</td>\n</tr>\n<tr>\n<td>Ó</td>\n<td>O+ s</td>\n</tr>\n<tr>\n<td>Ỏ</td>\n<td>O+ r</td>\n</tr>\n<tr>\n<td>Õ</td>\n<td>O+ x</td>\n</tr>\n<tr>\n<td>Ọ</td>\n<td>O+ j</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<h5><span class=\"line-orange\"><strong>ベトナム語入力の例</strong></span></h5>\n<p>最後に、例を使って理解していきましょう！</p>\n<p>Xin chào! Tên tôi là Miki. Tôi đến từ Nhật Bản. Tôi là sinh viên đại học.</p>\n<p>例えば、Nhật Bản(日本)という単語のnhật。</p>\n<p>nhật</p>\n<p>→ nh<span class=\"red\">aa<span class=\"blue\">j</span></span>t  or  nh<span class=\"red\">aa</span>t<span class=\"blue\">j</span>という打ち方になります。声調記号は、声調をつけたい文字の直後に入れてもいいですし、単語を打ち終わってから最後に入れるのでも大丈夫です。</p>\n<p>例</p>\n<p>tôi→ t<span class=\"red\">oo</span>i</p>\n<p>đại→ <span class=\"red\">dd</span>a<span class=\"blue\">j</span>i  <span class=\"red\">dd</span>ai<span class=\"blue\">j</span></p>\n<p>最初は、打ち方を覚えるのに戸惑うと思いますが、テレックス式を覚えるとパソコンもスマホもスムーズに打てるようになります。</p>\n<p>&nbsp;</p>\n<p>この記事が皆様の参考になれば幸いです！</p>\n<p>&nbsp;</p>\n<div class=\"linkcard\"><div class=\"lkc-external-wrap\"><a class=\"lkc-link no_icon\" href=\"https://kyujin.careerlink.asia/vietnam/job/list\" target=\"_blank\" rel=\"external noopener\"><div class=\"lkc-card\"><div class=\"lkc-info\"><img decoding=\"async\" class=\"lkc-favicon\" src=\"https://www.google.com/s2/favicons?domain=kyujin.careerlink.asia\" alt=\"\" width=16 height=16 /><div class=\"lkc-domain\">CareerLink.asia</div></div><div class=\"lkc-content\"><figure class=\"lkc-thumbnail\"><img decoding=\"async\" class=\"lkc-thumbnail-img\" src=\"//kyujin.careerlink.asia/blog/wp-content/uploads/pz-linkcard/cache/7d61fbeee112737e230246b417e13f7dec6acf77b8e28a1e750b268076005d90.jpeg\" alt=\"\" /></figure><div class=\"lkc-title\"><div class=\"lkc-title-text\">ベトナム求人・仕事、現地採用情報一覧  | キャリアリンクアジア</div></div><div class=\"lkc-url\">https://kyujin.careerlink.asia/vietnam/job/list</div><div class=\"lkc-excerpt\">ベトナム最大級の人材紹介会社、キャリアリンクベトナムが提供する日本人求人求職の専門サイト。ハノイ・ホーチミンのお仕事が中心です。</div></div><div class=\"clear\"></div></div></a></div></div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>発音記号がついたベトナム語、ベトナム人はどうキーボードからパソコンに打っているんだろう？ベトナム語を勉強中だから打てるようになりたい。という方必見！ 今回は、Windows, Mac OSのパソコンのベトナム語入力につい [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 4742,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    148,
+    25,
+    28
+  ],
+  "tags": [
+    317,
+    316,
+    332
+  ],
+  "class_list": {
+    "0": "post-4695",
+    "1": "post",
+    "2": "type-post",
+    "3": "status-publish",
+    "4": "format-standard",
+    "5": "has-post-thumbnail",
+    "7": "category-148",
+    "8": "category-vietnam",
+    "9": "category-28",
+    "10": "tag-unikey",
+    "11": "tag-316",
+    "12": "tag-332"
+  },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v26.7 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア</title>\n<!-- 管理者の方へ: ページにメタディスクリプションがないため、表示されません。ページ固有に記入するか、[Yoast SEO - 設定] メニューに移動してテンプレートを設定します。 -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://kyujin.careerlink.asia/blog/パソコンでベトナム語入力/\" />\n<meta property=\"og:locale\" content=\"ja_JP\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア\" />\n<meta property=\"og:description\" content=\"発音記号がついたベトナム語、ベトナム人はどうキーボードからパソコンに打っているんだろう？ベトナム語を勉強中だから打てるようになりたい。という方必見！ 今回は、Windows, Mac OSのパソコンのベトナム語入力につい [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://kyujin.careerlink.asia/blog/パソコンでベトナム語入力/\" />\n<meta property=\"og:site_name\" content=\"暮らすアジア\" />\n<meta property=\"article:published_time\" content=\"2022-10-05T07:18:41+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-01-06T03:38:52+00:00\" />\n<meta property=\"og:image\" content=\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"630\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"キャリアリンク編集部\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"執筆者\" />\n\t<meta name=\"twitter:data1\" content=\"キャリアリンク編集部\" />\n\t<meta name=\"twitter:label2\" content=\"推定読み取り時間\" />\n\t<meta name=\"twitter:data2\" content=\"12分\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#article\",\"isPartOf\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/\"},\"author\":{\"name\":\"キャリアリンク編集部\",\"@id\":\"https://kyujin.careerlink.asia/blog/#/schema/person/9905febc17609f4b17dd7443b467a385\"},\"headline\":\"パソコンでベトナム語をキーボード入力する方法(Windows / MacOS)\",\"datePublished\":\"2022-10-05T07:18:41+00:00\",\"dateModified\":\"2023-01-06T03:38:52+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/\"},\"wordCount\":187,\"publisher\":{\"@id\":\"https://kyujin.careerlink.asia/blog/#organization\"},\"image\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage\"},\"thumbnailUrl\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png\",\"keywords\":[\"Unikey\",\"ベトナム語\",\"ベトナム語入力\"],\"articleSection\":[\"ビジネス\",\"ベトナム\",\"生活情報\"],\"inLanguage\":\"ja\"},{\"@type\":\"WebPage\",\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/\",\"url\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/\",\"name\":\"パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア\",\"isPartOf\":{\"@id\":\"https://kyujin.careerlink.asia/blog/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage\"},\"image\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage\"},\"thumbnailUrl\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png\",\"datePublished\":\"2022-10-05T07:18:41+00:00\",\"dateModified\":\"2023-01-06T03:38:52+00:00\",\"breadcrumb\":{\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#breadcrumb\"},\"inLanguage\":\"ja\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"ja\",\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage\",\"url\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png\",\"contentUrl\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png\",\"width\":1200,\"height\":630,\"caption\":\"ベトナム語入力\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://kyujin.careerlink.asia/blog/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"パソコンでベトナム語をキーボード入力する方法(Windows / MacOS)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://kyujin.careerlink.asia/blog/#website\",\"url\":\"https://kyujin.careerlink.asia/blog/\",\"name\":\"暮らすアジア\",\"description\":\"東南アジアの”今”を知る人材会社社員と現地在住者が伝える、知ればちょっとアジアがちかくなる情報ブログ\",\"publisher\":{\"@id\":\"https://kyujin.careerlink.asia/blog/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://kyujin.careerlink.asia/blog/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"ja\"},{\"@type\":\"Organization\",\"@id\":\"https://kyujin.careerlink.asia/blog/#organization\",\"name\":\"キャリアリンクアジア\",\"url\":\"https://kyujin.careerlink.asia/blog/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ja\",\"@id\":\"https://kyujin.careerlink.asia/blog/#/schema/logo/image/\",\"url\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2020/10/logo-1200x1200-1.png\",\"contentUrl\":\"https://kyujin.careerlink.asia/blog/wp-content/uploads/2020/10/logo-1200x1200-1.png\",\"width\":1200,\"height\":1200,\"caption\":\"キャリアリンクアジア\"},\"image\":{\"@id\":\"https://kyujin.careerlink.asia/blog/#/schema/logo/image/\"}},{\"@type\":\"Person\",\"@id\":\"https://kyujin.careerlink.asia/blog/#/schema/person/9905febc17609f4b17dd7443b467a385\",\"name\":\"キャリアリンク編集部\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"ja\",\"@id\":\"https://kyujin.careerlink.asia/blog/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/8701f568badfca4d5276fee58a666445be82904ca0123886d429464825b459be?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/8701f568badfca4d5276fee58a666445be82904ca0123886d429464825b459be?s=96&d=mm&r=g\",\"caption\":\"キャリアリンク編集部\"},\"description\":\"キャリアリンク在籍のスタッフによる記事です。東南アジアの”今”を知る人材会社社員が、知ればちょっとアジアがちかくなる情報を発信していきます！\",\"url\":\"https://kyujin.careerlink.asia/blog/author/careerlinkasia/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://kyujin.careerlink.asia/blog/パソコンでベトナム語入力/",
+    "og_locale": "ja_JP",
+    "og_type": "article",
+    "og_title": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア",
+    "og_description": "発音記号がついたベトナム語、ベトナム人はどうキーボードからパソコンに打っているんだろう？ベトナム語を勉強中だから打てるようになりたい。という方必見！ 今回は、Windows, Mac OSのパソコンのベトナム語入力につい [&hellip;]",
+    "og_url": "https://kyujin.careerlink.asia/blog/パソコンでベトナム語入力/",
+    "og_site_name": "暮らすアジア",
+    "article_published_time": "2022-10-05T07:18:41+00:00",
+    "article_modified_time": "2023-01-06T03:38:52+00:00",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "キャリアリンク編集部",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "執筆者": "キャリアリンク編集部",
+      "推定読み取り時間": "12分"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#article",
+          "isPartOf": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/"
+          },
+          "author": {
+            "name": "キャリアリンク編集部",
+            "@id": "https://kyujin.careerlink.asia/blog/#/schema/person/9905febc17609f4b17dd7443b467a385"
+          },
+          "headline": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS)",
+          "datePublished": "2022-10-05T07:18:41+00:00",
+          "dateModified": "2023-01-06T03:38:52+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/"
+          },
+          "wordCount": 187,
+          "publisher": {
+            "@id": "https://kyujin.careerlink.asia/blog/#organization"
+          },
+          "image": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage"
+          },
+          "thumbnailUrl": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png",
+          "keywords": [
+            "Unikey",
+            "ベトナム語",
+            "ベトナム語入力"
+          ],
+          "articleSection": [
+            "ビジネス",
+            "ベトナム",
+            "生活情報"
+          ],
+          "inLanguage": "ja"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/",
+          "url": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/",
+          "name": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS) | 暮らすアジア",
+          "isPartOf": {
+            "@id": "https://kyujin.careerlink.asia/blog/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage"
+          },
+          "image": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage"
+          },
+          "thumbnailUrl": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png",
+          "datePublished": "2022-10-05T07:18:41+00:00",
+          "dateModified": "2023-01-06T03:38:52+00:00",
+          "breadcrumb": {
+            "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#breadcrumb"
+          },
+          "inLanguage": "ja",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ja",
+          "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#primaryimage",
+          "url": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png",
+          "contentUrl": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2022/10/はてなブログ　アイキャッチ画像　はてブ　Blog-2.png",
+          "width": 1200,
+          "height": 630,
+          "caption": "ベトナム語入力"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://kyujin.careerlink.asia/blog/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%a7%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0%e8%aa%9e%e5%85%a5%e5%8a%9b/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "ホーム",
+              "item": "https://kyujin.careerlink.asia/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "パソコンでベトナム語をキーボード入力する方法(Windows / MacOS)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://kyujin.careerlink.asia/blog/#website",
+          "url": "https://kyujin.careerlink.asia/blog/",
+          "name": "暮らすアジア",
+          "description": "東南アジアの”今”を知る人材会社社員と現地在住者が伝える、知ればちょっとアジアがちかくなる情報ブログ",
+          "publisher": {
+            "@id": "https://kyujin.careerlink.asia/blog/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://kyujin.careerlink.asia/blog/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ja"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://kyujin.careerlink.asia/blog/#organization",
+          "name": "キャリアリンクアジア",
+          "url": "https://kyujin.careerlink.asia/blog/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ja",
+            "@id": "https://kyujin.careerlink.asia/blog/#/schema/logo/image/",
+            "url": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2020/10/logo-1200x1200-1.png",
+            "contentUrl": "https://kyujin.careerlink.asia/blog/wp-content/uploads/2020/10/logo-1200x1200-1.png",
+            "width": 1200,
+            "height": 1200,
+            "caption": "キャリアリンクアジア"
+          },
+          "image": {
+            "@id": "https://kyujin.careerlink.asia/blog/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://kyujin.careerlink.asia/blog/#/schema/person/9905febc17609f4b17dd7443b467a385",
+          "name": "キャリアリンク編集部",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ja",
+            "@id": "https://kyujin.careerlink.asia/blog/#/schema/person/image/",
+            "url": "https://secure.gravatar.com/avatar/8701f568badfca4d5276fee58a666445be82904ca0123886d429464825b459be?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/8701f568badfca4d5276fee58a666445be82904ca0123886d429464825b459be?s=96&d=mm&r=g",
+            "caption": "キャリアリンク編集部"
+          },
+          "description": "キャリアリンク在籍のスタッフによる記事です。東南アジアの”今”を知る人材会社社員が、知ればちょっとアジアがちかくなる情報を発信していきます！",
+          "url": "https://kyujin.careerlink.asia/blog/author/careerlinkasia/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/posts/4695",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/comments?post=4695"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/posts/4695/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/media/4742"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/media?parent=4695"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/categories?post=4695"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://kyujin.careerlink.asia/blog/wp-json/wp/v2/tags?post=4695"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

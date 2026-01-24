@@ -114,8 +114,8 @@ LPは「CVを最大化する装置」ではない。
 | LP種別 | URL | 役割 |
 |--------|-----|------|
 | 総論LP | /blog/b2b-recruitment-consulting/ | タイ・ベトナム両方の判断材料 |
-| ベトナムLP | /blog/vietnam-recruitment-consulting/ | ベトナム固有の論点に特化 |
-| タイLP | （未作成） | タイ固有の論点に特化 |
+| ベトナムLP | /blog/vietnam-recruitment-consulting/ | ベトナム固有の論点に特化（Page ID: 8645） |
+| タイLP | /blog/thailand-recruitment-consulting/ | タイ固有の論点に特化（Page ID: 8648） |
 
 ### 3.3 内部リンク設計（Type A/B/C）
 
@@ -246,6 +246,7 @@ LPは「CVを最大化する装置」ではない。
 | B-1 | ベトナム採用判断LP作成 | 2026-01-24 |
 | B-2.5 | ベトナムLP CTA 2箇所化 | 2026-01-24 |
 | B-2.6 | ベトナムLP CTA 1箇所集約 | 2026-01-24 |
+| B-3 | タイ採用判断LP作成（Page ID: 8648） | 2026-01-24 |
 
 ### Phase D（ドキュメント整理）
 

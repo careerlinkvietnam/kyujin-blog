@@ -75,7 +75,7 @@
 ```html
 <div class="cta-box cta-hr-thailand" style="background: #e8f4f8; border: 2px solid #0066cc; padding: 24px; margin: 30px 0; border-radius: 8px;">
 <h3 style="margin-top: 0; color: #004d99;">【企業の人事・採用担当者様へ】タイでの人材採用をサポートします</h3>
-<p>CareerLink Asiaは、タイの日系企業向け人材紹介サービスを提供しています。</p>
+<p>キャリアリンクリクルートメントタイランドは、タイの日系企業向け人材紹介サービスを提供しています。</p>
 <ul>
 <li>タイ人スタッフ・日本語人材の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>
@@ -93,7 +93,7 @@
 ```html
 <div class="cta-box cta-hr-vietnam" style="background: #e8f4f8; border: 2px solid #0066cc; padding: 24px; margin: 30px 0; border-radius: 8px;">
 <h3 style="margin-top: 0; color: #004d99;">【企業の人事・採用担当者様へ】ベトナムでの人材採用をサポートします</h3>
-<p>CareerLink Asiaは、ベトナムの日系企業向け人材紹介サービスを提供しています。</p>
+<p>キャリアリンクベトナムは、ベトナムの日系企業向け人材紹介サービスを提供しています。</p>
 <ul>
 <li>ベトナム人スタッフ・日本語人材の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>

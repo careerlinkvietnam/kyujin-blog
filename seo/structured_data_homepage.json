@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://kyujin.careerlink.asia/#organization",
+      "name": "キャリアリンク",
+      "alternateName": "CareerLink",
+      "url": "https://kyujin.careerlink.asia/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://kyujin.careerlink.asia/images/common/logo.png",
+        "width": 200,
+        "height": 60
+      },
+      "description": "東南アジア（ベトナム・タイ）専門の日本人向け求人・転職サポートサービス。15年以上の実績。",
+      "foundingDate": "2009",
+      "email": "contact@careerlink.asia",
+      "sameAs": [
+        "https://www.facebook.com/kyujin.CareerLink.asia/",
+        "https://careerlink.vn/",
+        "https://vietcv.io/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "contact@careerlink.asia",
+        "availableLanguage": ["Japanese", "English", "Vietnamese"]
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Vietnam"
+        },
+        {
+          "@type": "Country",
+          "name": "Thailand"
+        },
+        {
+          "@type": "Country",
+          "name": "Indonesia"
+        },
+        {
+          "@type": "Country",
+          "name": "Singapore"
+        },
+        {
+          "@type": "Country",
+          "name": "Malaysia"
+        },
+        {
+          "@type": "Country",
+          "name": "Philippines"
+        },
+        {
+          "@type": "Country",
+          "name": "Cambodia"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://kyujin.careerlink.asia/#website",
+      "url": "https://kyujin.careerlink.asia/",
+      "name": "CareerLink Kyujin - 東南アジア求人",
+      "description": "海外での就職・転職をサポートする求人サイト。東南アジアの求人情報から、あなたにぴったりの仕事を見つけましょう。",
+      "publisher": {
+        "@id": "https://kyujin.careerlink.asia/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://kyujin.careerlink.asia/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      },
+      "inLanguage": ["ja", "en", "vi"]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://kyujin.careerlink.asia/#webpage",
+      "url": "https://kyujin.careerlink.asia/",
+      "name": "CareerLink Kyujin - 海外就職・転職",
+      "isPartOf": {
+        "@id": "https://kyujin.careerlink.asia/#website"
+      },
+      "about": {
+        "@id": "https://kyujin.careerlink.asia/#organization"
+      },
+      "description": "東南アジア（ベトナム・タイ・インドネシア）で働く日本人向けの求人情報サイト。15年以上の実績で海外転職をサポート。",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://kyujin.careerlink.asia/images/common/og-image.jpg"
+      }
+    },
+    {
+      "@type": "EmploymentAgency",
+      "@id": "https://kyujin.careerlink.asia/#agency",
+      "name": "CareerLink Asia",
+      "description": "東南アジア専門の人材紹介会社。ベトナム・タイを中心に日系企業の採用支援と日本人求職者の転職サポートを提供。",
+      "url": "https://kyujin.careerlink.asia/",
+      "logo": "https://kyujin.careerlink.asia/images/common/logo.png",
+      "priceRange": "無料（求職者）",
+      "serviceType": [
+        "人材紹介",
+        "転職支援",
+        "海外就職サポート",
+        "採用コンサルティング"
+      ],
+      "areaServed": ["Vietnam", "Thailand", "Southeast Asia"],
+      "parentOrganization": {
+        "@id": "https://kyujin.careerlink.asia/#organization"
+      }
+    }
+  ]
+}

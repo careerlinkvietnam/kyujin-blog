@@ -79,7 +79,6 @@
 <ul>
 <li>タイ人スタッフ・日本語人材の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>
-<li>労働許可証・ビザ取得サポート</li>
 </ul>
 <p><strong>まずはお気軽にご相談ください。</strong></p>
 <p><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
@@ -98,7 +97,6 @@
 <ul>
 <li>ベトナム人スタッフ・日本語人材の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>
-<li>労働許可証・ビザ取得サポート</li>
 </ul>
 <p><strong>まずはお気軽にご相談ください。</strong></p>
 <p><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>

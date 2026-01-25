@@ -53,15 +53,28 @@ async function checkArticle(postId) {
                     if (encodedCount > 0) issues.push(`HTML-encoded関連記事x${encodedCount}`);
                     if (h2Count + h3Count + encodedCount > 1) issues.push('重複あり');
 
-                    // Check for legacy CTAs
-                    if (content.includes('ハノイで働くことに興味はありませんか')) issues.push('レガシーCTA:ハノイ');
-                    if (content.includes('ホーチミンで働くことに興味はありませんか')) issues.push('レガシーCTA:ホーチミン');
-                    if (content.includes('ベトナムで働くことに興味はありませんか')) issues.push('レガシーCTA:ベトナム');
-                    if (content.includes('タイで働くことに興味はありませんか')) issues.push('レガシーCTA:タイ');
-                    if (content.includes('バンコクで働くことに興味はありませんか')) issues.push('レガシーCTA:バンコク');
-                    if (content.includes('東南アジア進出・人材採用のご相談')) issues.push('レガシーCTA:SEA進出');
-                    if (content.includes('専門家にご相談ください')) issues.push('レガシーCTA:専門家');
-                    if (content.includes('ベトナムで採用をお考えの人事担当者様へ')) issues.push('レガシーCTA:人事担当者');
+                    // Check for legacy CTAs - only count if in a styled CTA div
+                    const legacyCtaPatterns = [
+                        { text: 'ハノイで働くことに興味はありませんか', name: 'ハノイ' },
+                        { text: 'ホーチミンで働くことに興味はありませんか', name: 'ホーチミン' },
+                        { text: 'ベトナムで働くことに興味はありませんか', name: 'ベトナム' },
+                        { text: 'タイで働くことに興味はありませんか', name: 'タイ' },
+                        { text: 'バンコクで働くことに興味はありませんか', name: 'バンコク' },
+                        { text: '東南アジア進出・人材採用のご相談', name: 'SEA進出' },
+                        { text: 'ベトナムで採用をお考えの人事担当者様へ', name: '人事担当者' },
+                    ];
+
+                    for (const pattern of legacyCtaPatterns) {
+                        const idx = content.indexOf(pattern.text);
+                        if (idx > -1) {
+                            // Check if it's in a styled div (actual CTA) not just plain text
+                            const before = content.substring(Math.max(0, idx - 500), idx);
+                            if (before.includes('background:') || before.includes('background-color:') ||
+                                before.includes('style="background') || before.includes('cta-box')) {
+                                issues.push(`レガシーCTA:${pattern.name}`);
+                            }
+                        }
+                    }
 
                     // Check for old URL patterns
                     if (content.includes('/jobseeker/register')) issues.push('古いURL:/jobseeker/register');

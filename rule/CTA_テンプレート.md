@@ -7,7 +7,7 @@
 
 ## 目次
 
-1. [求職者案内用CTA](#1-求職者案内用cta)（4パターン）
+1. [求職者案内用CTA](#1-求職者案内用cta)（6パターン）
 2. [人事担当者案内用CTA](#2-人事担当者案内用cta)（2パターン）
 3. [人事担当者LP誘導用CTA](#3-人事担当者lp誘導用cta)（3パターン）
 4. [配置ルール](#配置ルール)
@@ -22,7 +22,7 @@
 <div class="cta-box cta-jobseeker-thailand" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
 <h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">タイで働きたい方へ</h3>
 <p style="margin: 16px 0;">タイの日系企業求人を多数掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/jobseeker/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
 <p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
 </div>
 ```
@@ -35,7 +35,7 @@
 <div class="cta-box cta-jobseeker-vietnam" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
 <h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">ベトナムで働きたい方へ</h3>
 <p style="margin: 16px 0;">ベトナムの日系企業求人を多数掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/jobseeker/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
 <p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
 </div>
 ```
@@ -48,7 +48,7 @@
 <div class="cta-box cta-jobseeker-indonesia" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
 <h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">インドネシアで働きたい方へ</h3>
 <p style="margin: 16px 0;">インドネシアの日系企業求人を掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/jobseeker/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
 <p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
 </div>
 ```
@@ -61,8 +61,42 @@
 <div class="cta-box cta-jobseeker-sea" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
 <h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">東南アジアで働きたい方へ</h3>
 <p style="margin: 16px 0;">タイ・ベトナムを中心に東南アジアの日系企業求人を掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/jobseeker/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
 <p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
+</div>
+```
+
+---
+
+### 1-5. タイ用フル版（jobseeker-thailand-full）
+
+求人一覧と会員登録の2つのボタンを持つ詳細版CTA。
+
+```html
+<div class="cta-box cta-jobseeker-thailand-full" style="background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%); color: white; padding: 30px; border-radius: 12px; margin: 30px 0; text-align: center;">
+<h3 style="color: #fef08a; margin: 0 0 15px 0;">キャリアリンクリクルートメントタイランドでタイ転職を実現</h3>
+<p style="margin: 0 0 20px 0; line-height: 1.8;">当社はバンコクに拠点を持ち、タイの日系企業求人を多数取り扱っています。現地在住の日本人コンサルタントが、求人紹介から入社後のフォローまでトータルでサポートいたします。</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+<a href="https://kyujin.careerlink.asia/thailand/job/list" style="display: inline-block; background: #fef08a; color: #1e40af; padding: 15px 30px; border-radius: 8px; text-decoration: none; font-weight: bold;">タイの求人一覧を見る</a>
+<a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: white; color: #1e40af; padding: 15px 30px; border-radius: 8px; text-decoration: none; font-weight: bold;">無料会員登録はこちら</a>
+</div>
+</div>
+```
+
+---
+
+### 1-6. ベトナム用フル版（jobseeker-vietnam-full）
+
+求人一覧と会員登録の2つのボタンを持つ詳細版CTA。
+
+```html
+<div class="cta-box cta-jobseeker-vietnam-full" style="background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%); color: white; padding: 30px; border-radius: 12px; margin: 30px 0; text-align: center;">
+<h3 style="color: #fef08a; margin: 0 0 15px 0;">キャリアリンクベトナムでベトナム転職を実現</h3>
+<p style="margin: 0 0 20px 0; line-height: 1.8;">当社はホーチミン・ハノイに拠点を持ち、ベトナムの日系企業求人を多数取り扱っています。現地在住の日本人コンサルタントが、求人紹介から入社後のフォローまでトータルでサポートいたします。</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+<a href="https://kyujin.careerlink.asia/vietnam/job/list" style="display: inline-block; background: #fef08a; color: #1e40af; padding: 15px 30px; border-radius: 8px; text-decoration: none; font-weight: bold;">ベトナムの求人一覧を見る</a>
+<a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: white; color: #1e40af; padding: 15px 30px; border-radius: 8px; text-decoration: none; font-weight: bold;">無料会員登録はこちら</a>
+</div>
 </div>
 ```
 
@@ -200,24 +234,33 @@
 
 | # | カテゴリ | クラス名 | 用途 |
 |---|----------|----------|------|
-| 1 | 求職者 | `cta-jobseeker-thailand` | タイ求職者向け |
-| 2 | 求職者 | `cta-jobseeker-vietnam` | ベトナム求職者向け |
+| 1 | 求職者 | `cta-jobseeker-thailand` | タイ求職者向け（シンプル版） |
+| 2 | 求職者 | `cta-jobseeker-vietnam` | ベトナム求職者向け（シンプル版） |
 | 3 | 求職者 | `cta-jobseeker-indonesia` | インドネシア求職者向け |
 | 4 | 求職者 | `cta-jobseeker-sea` | 東南アジア全体求職者向け |
-| 5 | 人事案内 | `cta-hr-thailand` | タイ人事担当者向け |
-| 6 | 人事案内 | `cta-hr-vietnam` | ベトナム人事担当者向け |
-| 7 | LP誘導 | `cta-lp-thailand` | タイLP誘導 |
-| 8 | LP誘導 | `cta-lp-vietnam` | ベトナムLP誘導 |
-| 9 | LP誘導 | `cta-lp-sea` | 東南アジア全体LP誘導 |
+| 5 | 求職者 | `cta-jobseeker-thailand-full` | タイ求職者向け（2ボタン版） |
+| 6 | 求職者 | `cta-jobseeker-vietnam-full` | ベトナム求職者向け（2ボタン版） |
+| 7 | 人事案内 | `cta-hr-thailand` | タイ人事担当者向け |
+| 8 | 人事案内 | `cta-hr-vietnam` | ベトナム人事担当者向け |
+| 9 | LP誘導 | `cta-lp-thailand` | タイLP誘導 |
+| 10 | LP誘導 | `cta-lp-vietnam` | ベトナムLP誘導 |
+| 11 | LP誘導 | `cta-lp-sea` | 東南アジア全体LP誘導 |
 
 ---
 
 ## デザイン仕様
 
-### 求職者CTA（オレンジ系）
+### 求職者CTA シンプル版（オレンジ系）
 - 背景: `linear-gradient(135deg, #ff6b35 0%, #f7931e 100%)`
 - テキスト: 白
 - ボタン: 白背景、オレンジ文字（#e85a1c）
+
+### 求職者CTA フル版（明るい青系）
+- 背景: `linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)`
+- テキスト: 白
+- 見出し: 明るい黄色（#fef08a）
+- ボタン1: 黄色背景、青文字（#1e40af）- 求人一覧
+- ボタン2: 白背景、青文字（#1e40af）- 会員登録
 
 ### 人事担当者案内CTA（薄い青）
 - 背景: `#e8f4f8`
@@ -232,4 +275,126 @@
 
 ---
 
-**最終更新**: 2026-01-25
+## レガシーCTA（置換対象）
+
+以下は古い形式のCTAパターンです。見つけた場合は新しい標準CTAに置換してください。
+
+### レガシーパターン1: ベトナム赤ボックス
+
+**識別キーワード**: `ベトナムで働くことに興味はありませんか`, `#da251d`, `#fff5f5`
+
+```html
+<h2>ベトナムの求人を探すなら</h2>
+<p>キャリアリンクアジアでは、ホーチミン・ハノイを中心にベトナム全土の日本人向け求人を多数掲載しています。</p>
+<div style="background-color: #fff5f5; border: 2px solid #da251d; border-radius: 10px; padding: 20px; margin: 30px 0;">
+<h3 style="color: #da251d; margin-top: 0;">ベトナムで働くことに興味はありませんか？</h3>
+<p>IT、製造業、営業、通訳など、様々な職種の求人を掲載しています。まずは求人情報をチェックしてみてください。</p>
+<p style="margin-bottom: 0;"><strong><a href="https://kyujin.careerlink.asia/vietnam/job/list" style="color: #da251d;">▶ ベトナムの求人一覧を見る</a></strong></p>
+<p style="margin-bottom: 0;"><strong><a href="https://kyujin.careerlink.asia/register" style="color: #da251d;">▶ 無料会員登録はこちら</a></strong></p>
+</div>
+```
+
+**置換先**: `cta-jobseeker-vietnam-full`（1-6）
+
+---
+
+### レガシーパターン2: タイ青ボックス（要確認）
+
+**識別キーワード**: `タイで働くことに興味はありませんか`, `#1e3a5f`, `#ffd700`
+
+**置換先**: `cta-jobseeker-thailand-full`（1-5）
+
+---
+
+### レガシーパターン3: 東南アジア進出B2B
+
+**識別キーワード**: `東南アジア進出・人材採用のご相談`, `キャリアリンクアジアでは、東南アジアへの進出・投資`
+
+```html
+<h3>東南アジア進出・人材採用のご相談</h3>
+<p>キャリアリンクアジアでは、東南アジアへの進出・投資をご検討の企業様をサポートしています。</p>
+<ul>
+<li>20年以上の東南アジアでの事業実績</li>
+<li>ベトナム・タイに現地オフィス</li>
+<li>人材採用のフルサポート</li>
+<li>現地の最新情報のご提供</li>
+</ul>
+<p><a href="...">お問い合わせはこちら</a></p>
+```
+
+**置換先**: `cta-lp-sea`（3-3）または国別LP誘導CTA
+
+---
+
+### レガシーパターン4: ベトナム人事担当者向け（CareerLink Asia名義）
+
+**識別キーワード**: `ベトナムで採用をお考えの人事担当者様へ`, `CareerLink Asiaでは、ベトナムでの人材採用をサポート`
+
+```html
+<h3>ベトナムで採用をお考えの人事担当者様へ</h3>
+<p>CareerLink Asiaでは、ベトナムでの人材採用をサポートしています。日本人・ベトナム人の採用、労務管理のご相談はお気軽にどうぞ。</p>
+<a href="...">採用のご相談</a>
+<a href="...">ベトナムの求人を見る</a>
+```
+
+**置換先**: `cta-hr-vietnam`（2-2）または `cta-lp-vietnam`（3-2）
+
+---
+
+### レガシーパターン5: 専門家にご相談ください（東南アジアB2B）
+
+**識別キーワード**: `専門家にご相談ください`, `キャリアリンクアジアでは、東南アジアでのビジネス展開をサポート`
+
+```html
+<h3>専門家にご相談ください</h3>
+<p>キャリアリンクアジアでは、東南アジアでのビジネス展開をサポートしています。人材採用についてお気軽にお問い合わせください。</p>
+<a href="...">お問い合わせはこちら</a>
+```
+
+**置換先**: `cta-lp-sea`（3-3）または国別LP誘導CTA
+
+---
+
+### レガシーパターン6: cta-light（タイ・ベトナム相談）
+
+**識別キーワード**: `cta-box cta-light`, `タイ・ベトナムでの採用についてご相談いただけます`
+
+```html
+<div class="cta-box cta-light" style="background: #f8f9fa; border-left: 4px solid #0066cc; ...">
+<h3>タイ・ベトナムでの採用についてご相談いただけます</h3>
+...
+</div>
+```
+
+**置換先**: `cta-lp-vietnam`（3-2）または `cta-lp-thailand`（3-1）
+
+---
+
+### レガシーパターン7: cta-standard（タイ・ベトナム人事向け）
+
+**識別キーワード**: `cta-box cta-standard`, `【企業の人事・採用担当者様へ】タイ・ベトナムの人材採用をサポート`
+
+```html
+<div class="cta-box cta-standard" style="background: #e8f4f8; border: 2px solid #0066cc; ...">
+<h3>【企業の人事・採用担当者様へ】タイ・ベトナムの人材採用をサポートします</h3>
+...
+</div>
+```
+
+**置換先**: `cta-hr-vietnam`（2-2）または `cta-hr-thailand`（2-1）
+
+---
+
+## レガシーCTA検索コマンド
+
+```bash
+# ベトナムレガシーCTAを含む記事を検索
+node -e "const posts = JSON.parse(require('fs').readFileSync('backup_2026-01-25/all_posts_backup.json')); posts.filter(p => (p.content.raw||'').includes('ベトナムで働くことに興味はありませんか')).forEach(p => console.log(p.id, p.title.rendered));"
+
+# タイレガシーCTAを含む記事を検索
+node -e "const posts = JSON.parse(require('fs').readFileSync('backup_2026-01-25/all_posts_backup.json')); posts.filter(p => (p.content.raw||'').includes('タイで働くことに興味はありませんか')).forEach(p => console.log(p.id, p.title.rendered));"
+```
+
+---
+
+**最終更新**: 2026-01-25（レガシーCTAパターン追加）

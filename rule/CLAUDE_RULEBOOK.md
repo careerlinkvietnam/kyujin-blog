@@ -164,6 +164,28 @@ LPは「CVを最大化する装置」ではない。
 | 求職者向け | https://kyujin.careerlink.asia/jobseeker/register |
 | 企業向け | https://kyujin.careerlink.asia/お問い合わせ |
 
+### 4.4 レガシーCTAパターン（認識必須）
+
+以下のパターンは `cta-box` クラスを持たないが、**CTAとしてカウントする**。CTA数の上限（最大2個）を適用する際に含めること。
+
+#### パターン1: 東南アジア進出・人材採用のご相談
+
+```html
+<div style="background: #e8f4fd; padding: 25px; margin-top: 40px; border-radius: 8px;">
+<h3 style="margin-top: 0;">東南アジア進出・人材採用のご相談</h3>
+<p>キャリアリンクアジアでは、東南アジアへの進出・投資をご検討の企業様をサポートしています。</p>
+<ul>
+<li>20年以上の東南アジアでの事業実績</li>
+<li>ベトナム・タイに現地オフィス</li>
+<li>人材採用のフルサポート</li>
+<li>現地の最新情報のご提供</li>
+</ul>
+<p><a href="https://kyujin.careerlink.asia/お問い合わせ">お問い合わせはこちら</a></p>
+</div>
+```
+
+**識別方法**: 「東南アジア進出・人材採用のご相談」という見出し + お問い合わせリンク
+
 ---
 
 ## 6. 記事品質基準

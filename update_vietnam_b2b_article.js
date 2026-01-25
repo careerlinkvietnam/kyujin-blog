@@ -1,0 +1,166 @@
+const https = require('https');
+const fs = require('fs');
+
+const auth = Buffer.from('careerlinkasia:N2Zz bzSn AWve Pa83 Ap2S 6Mlw').toString('base64');
+
+// Vietnam B2B CTA (LP誘導用)
+const vietnamB2BCTA = `<div class="cta-box cta-lp-vietnam" style="background: linear-gradient(135deg, #004d99 0%, #0066cc 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
+<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">ベトナムでの採用、判断材料が足りていますか？</h3>
+<p style="margin: 16px 0;">採用難易度・給与相場・採用期間の目安を<strong>無料</strong>でお伝えします。</p>
+<p><a href="https://kyujin.careerlink.asia/blog/vietnam-recruitment-consulting/" style="display: inline-block; background: #fff; color: #004d99; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">ベトナム採用の無料相談ページへ</a></p>
+<p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※相談無料・秘密厳守・1〜2営業日以内に返信</p>
+</div>`;
+
+// Vietnam HR CTA (案内用)
+const vietnamHRCTA = `<div class="cta-box cta-hr-vietnam" style="background: #e8f4f8; border: 2px solid #0066cc; padding: 24px; margin: 30px 0; border-radius: 8px;">
+<h3 style="margin-top: 0; margin-bottom: 12px; color: #004d99;">【企業の人事・採用担当者様へ】ベトナムでの人材採用をサポートします</h3>
+<p style="margin: 0 0 12px 0;">キャリアリンクベトナムは、ベトナムの日系企業向け人材紹介サービスを提供しています。</p>
+<ul style="margin: 0 0 12px 0; padding-left: 20px; line-height: 1.6;">
+<li style="margin-bottom: 2px;">ベトナム人スタッフ・日本語人材の紹介</li>
+<li style="margin-bottom: 2px;">ベトナムで働きたい日本人の紹介</li>
+<li style="margin-bottom: 2px;">現地の給与相場・採用市場のご案内</li>
+</ul>
+<p style="margin: 0 0 12px 0;"><strong>まずはお気軽にご相談ください。</strong></p>
+<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
+<p style="font-size: 0.9em; color: #666; margin: 0;">※初回相談無料・1〜2営業日以内に返信</p>
+</div>`;
+
+async function main() {
+    // Fetch the current content
+    const getOptions = {
+        hostname: 'kyujin.careerlink.asia',
+        port: 443,
+        path: '/blog/wp-json/wp/v2/posts/7998?context=edit',
+        method: 'GET',
+        headers: { 'Authorization': `Basic ${auth}` }
+    };
+
+    const post = await new Promise((resolve) => {
+        const req = https.request(getOptions, (res) => {
+            let data = '';
+            res.on('data', (chunk) => { data += chunk; });
+            res.on('end', () => resolve(JSON.parse(data)));
+        });
+        req.end();
+    });
+
+    let content = post.content.raw;
+    console.log('Original length:', content.length);
+
+    // 1. Add TOC shortcode at the beginning if not present
+    if (!content.includes('[toc')) {
+        content = '[toc heading_levels="2,3"]\n\n' + content;
+        console.log('Added TOC shortcode');
+    }
+
+    // 2. Remove existing CTA boxes and replace with new ones
+    // Pattern to match CTA boxes
+    const ctaPattern = /<div[^>]*class="[^"]*cta-box[^"]*"[^>]*>[\s\S]*?<\/div>\s*(<\/div>)?/gi;
+
+    // Find all CTA positions first
+    let matches = [];
+    let match;
+    const tempContent = content;
+    while ((match = ctaPattern.exec(tempContent)) !== null) {
+        matches.push({
+            index: match.index,
+            length: match[0].length,
+            text: match[0]
+        });
+    }
+    console.log('Found', matches.length, 'existing CTAs');
+
+    // Remove existing CTAs (from end to beginning to preserve indices)
+    for (let i = matches.length - 1; i >= 0; i--) {
+        const m = matches[i];
+        content = content.substring(0, m.index) + content.substring(m.index + m.length);
+        console.log('Removed CTA at position', m.index);
+    }
+
+    // 3. Add new CTAs at appropriate positions
+    // For a 44k article: 10-15%, 50%, end
+    const contentLength = content.length;
+
+    // Find good insertion points using H2 headings
+    const h2Pattern = /<h2[^>]*>/gi;
+    const h2Positions = [];
+    while ((match = h2Pattern.exec(content)) !== null) {
+        h2Positions.push(match.index);
+    }
+
+    // CTA 1: After first content section (around 10-15%)
+    const target1 = contentLength * 0.12;
+    let insertPos1 = h2Positions.find(p => p > target1) || h2Positions[2];
+    if (insertPos1) {
+        content = content.substring(0, insertPos1) + vietnamB2BCTA + '\n\n' + content.substring(insertPos1);
+        console.log('Added CTA #1 (LP style) at ~12%');
+    }
+
+    // Recalculate positions after first insert
+    const h2Pattern2 = /<h2[^>]*>/gi;
+    const h2Positions2 = [];
+    while ((match = h2Pattern2.exec(content)) !== null) {
+        h2Positions2.push(match.index);
+    }
+
+    // CTA 2: Around 50%
+    const target2 = content.length * 0.50;
+    let insertPos2 = h2Positions2.find(p => p > target2);
+    if (insertPos2) {
+        content = content.substring(0, insertPos2) + vietnamHRCTA + '\n\n' + content.substring(insertPos2);
+        console.log('Added CTA #2 (HR style) at ~50%');
+    }
+
+    // CTA 3: Before 関連記事 or at end
+    let endPos = content.lastIndexOf('<h2');
+    // Find the 関連記事 section
+    const relatedIdx = content.indexOf('>関連記事<');
+    if (relatedIdx > content.length * 0.9) {
+        endPos = content.lastIndexOf('<h2', relatedIdx);
+    }
+
+    if (endPos > content.length * 0.85) {
+        content = content.substring(0, endPos) + vietnamB2BCTA + '\n\n' + content.substring(endPos);
+        console.log('Added CTA #3 (LP style) at end');
+    }
+
+    console.log('New length:', content.length);
+
+    // Save for review
+    fs.writeFileSync('temp_vietnam_b2b_content.html', content);
+    console.log('Content saved to temp_vietnam_b2b_content.html');
+
+    // Update the post
+    const postData = JSON.stringify({ content: content });
+    const postOptions = {
+        hostname: 'kyujin.careerlink.asia',
+        port: 443,
+        path: '/blog/wp-json/wp/v2/posts/7998',
+        method: 'POST',
+        headers: {
+            'Authorization': `Basic ${auth}`,
+            'Content-Type': 'application/json',
+            'Content-Length': Buffer.byteLength(postData)
+        }
+    };
+
+    const result = await new Promise((resolve) => {
+        const req = https.request(postOptions, (res) => {
+            let data = '';
+            res.on('data', (chunk) => { data += chunk; });
+            res.on('end', () => resolve({ status: res.statusCode, data }));
+        });
+        req.write(postData);
+        req.end();
+    });
+
+    if (result.status === 200) {
+        console.log('\nPost 7998 updated successfully!');
+        console.log('URL: https://kyujin.careerlink.asia/blog/vietnam-labor-law-employer-guide-2026/');
+    } else {
+        console.log('\nError updating post:', result.status);
+        console.log(result.data.substring(0, 500));
+    }
+}
+
+main().catch(console.error);

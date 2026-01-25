@@ -74,16 +74,16 @@
 
 ```html
 <div class="cta-box cta-hr-thailand" style="background: #e8f4f8; border: 2px solid #0066cc; padding: 24px; margin: 30px 0; border-radius: 8px;">
-<h3 style="margin-top: 0; color: #004d99;">【企業の人事・採用担当者様へ】タイでの人材採用をサポートします</h3>
-<p>キャリアリンクリクルートメントタイランドは、タイの日系企業向け人材紹介サービスを提供しています。</p>
-<ul>
+<h3 style="margin-top: 0; margin-bottom: 12px; color: #004d99;">【企業の人事・採用担当者様へ】タイでの人材採用をサポートします</h3>
+<p style="margin: 0 0 12px 0;">キャリアリンクリクルートメントタイランドは、タイの日系企業向け人材紹介サービスを提供しています。</p>
+<ul style="margin: 0 0 12px 0; padding-left: 20px;">
 <li>タイ人スタッフ・日本語人材の紹介</li>
 <li>タイで働きたい日本人の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>
 </ul>
-<p><strong>まずはお気軽にご相談ください。</strong></p>
-<p><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
-<p style="font-size: 0.9em; color: #666; margin-bottom: 0;">※初回相談無料・1〜2営業日以内に返信</p>
+<p style="margin: 0 0 12px 0;"><strong>まずはお気軽にご相談ください。</strong></p>
+<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
+<p style="font-size: 0.9em; color: #666; margin: 0;">※初回相談無料・1〜2営業日以内に返信</p>
 </div>
 ```
 
@@ -93,16 +93,16 @@
 
 ```html
 <div class="cta-box cta-hr-vietnam" style="background: #e8f4f8; border: 2px solid #0066cc; padding: 24px; margin: 30px 0; border-radius: 8px;">
-<h3 style="margin-top: 0; color: #004d99;">【企業の人事・採用担当者様へ】ベトナムでの人材採用をサポートします</h3>
-<p>キャリアリンクベトナムは、ベトナムの日系企業向け人材紹介サービスを提供しています。</p>
-<ul>
+<h3 style="margin-top: 0; margin-bottom: 12px; color: #004d99;">【企業の人事・採用担当者様へ】ベトナムでの人材採用をサポートします</h3>
+<p style="margin: 0 0 12px 0;">キャリアリンクベトナムは、ベトナムの日系企業向け人材紹介サービスを提供しています。</p>
+<ul style="margin: 0 0 12px 0; padding-left: 20px;">
 <li>ベトナム人スタッフ・日本語人材の紹介</li>
 <li>ベトナムで働きたい日本人の紹介</li>
 <li>現地の給与相場・採用市場のご案内</li>
 </ul>
-<p><strong>まずはお気軽にご相談ください。</strong></p>
-<p><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
-<p style="font-size: 0.9em; color: #666; margin-bottom: 0;">※初回相談無料・1〜2営業日以内に返信</p>
+<p style="margin: 0 0 12px 0;"><strong>まずはお気軽にご相談ください。</strong></p>
+<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
+<p style="font-size: 0.9em; color: #666; margin: 0;">※初回相談無料・1〜2営業日以内に返信</p>
 </div>
 ```
 

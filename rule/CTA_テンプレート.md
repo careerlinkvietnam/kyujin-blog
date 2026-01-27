@@ -112,7 +112,7 @@
 <li style="margin-bottom: 2px;">現地の給与相場・採用市場のご案内</li>
 </ul>
 <p style="margin: 0 0 12px 0;"><strong>まずはお気軽にご相談ください。</strong></p>
-<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
+<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/register?type=employer" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
 <p style="font-size: 0.9em; color: #666; margin: 0;">※初回相談無料・1〜2営業日以内に返信</p>
 </div>
 ```
@@ -131,7 +131,7 @@
 <li style="margin-bottom: 2px;">現地の給与相場・採用市場のご案内</li>
 </ul>
 <p style="margin: 0 0 12px 0;"><strong>まずはお気軽にご相談ください。</strong></p>
-<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/お問い合わせ" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
+<p style="margin: 0 0 8px 0;"><a href="https://kyujin.careerlink.asia/register?type=employer" style="display: inline-block; background: #004d99; color: #fff; padding: 12px 32px; text-decoration: none; border-radius: 4px; font-weight: bold;">採用のご相談・お問い合わせ</a></p>
 <p style="font-size: 0.9em; color: #666; margin: 0;">※初回相談無料・1〜2営業日以内に返信</p>
 </div>
 ```

@@ -189,8 +189,8 @@ LPは「CVを最大化する装置」ではない。
 
 | ターゲット | URL |
 |-----------|-----|
-| 求職者向け | https://kyujin.careerlink.asia/jobseeker/register |
-| 企業向け | https://kyujin.careerlink.asia/お問い合わせ |
+| 求職者向け | https://kyujin.careerlink.asia/register |
+| 企業向け | https://kyujin.careerlink.asia/register?type=employer |
 
 ### 4.4 レガシーCTAパターン（認識必須）
 
@@ -208,7 +208,7 @@ LPは「CVを最大化する装置」ではない。
 <li>人材採用のフルサポート</li>
 <li>現地の最新情報のご提供</li>
 </ul>
-<p><a href="https://kyujin.careerlink.asia/お問い合わせ">お問い合わせはこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register?type=employer">お問い合わせはこちら</a></p>
 </div>
 ```
 
@@ -220,7 +220,7 @@ LPは「CVを最大化する装置」ではない。
 <div style="...">
 <h3>専門家にご相談ください</h3>
 <p>キャリアリンクアジアでは、東南アジアでのビジネス展開をサポートしています。人材採用についてお気軽にお問い合わせください。</p>
-<p><a href="https://kyujin.careerlink.asia/お問い合わせ">お問い合わせはこちら</a></p>
+<p><a href="https://kyujin.careerlink.asia/register?type=employer">お問い合わせはこちら</a></p>
 </div>
 ```
 

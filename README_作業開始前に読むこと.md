@@ -49,8 +49,8 @@
 
 | ターゲット | URL |
 |-----------|-----|
-| 求職者向け | https://kyujin.careerlink.asia/jobseeker/register |
-| 企業向け | https://kyujin.careerlink.asia/お問い合わせ |
+| 求職者向け（会員登録） | https://kyujin.careerlink.asia/register |
+| 企業向け | https://kyujin.careerlink.asia/register?type=employer |
 
 ### WordPress API
 

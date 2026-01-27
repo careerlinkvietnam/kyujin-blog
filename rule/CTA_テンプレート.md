@@ -20,10 +20,9 @@
 
 ```html
 <div class="cta-box cta-jobseeker-thailand" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
-<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">タイで働きたい方へ</h3>
+<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">タイ転職への第一歩</h3>
 <p style="margin: 16px 0;">タイの日系企業求人を多数掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
-<p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
+<p><a href="https://kyujin.careerlink.asia/thailand/job/list" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">タイの求人を見る</a></p>
 </div>
 ```
 
@@ -33,10 +32,9 @@
 
 ```html
 <div class="cta-box cta-jobseeker-vietnam" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
-<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">ベトナムで働きたい方へ</h3>
+<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">ベトナム転職への第一歩</h3>
 <p style="margin: 16px 0;">ベトナムの日系企業求人を多数掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
-<p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
+<p><a href="https://kyujin.careerlink.asia/vietnam/job/list" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">ベトナムの求人を見る</a></p>
 </div>
 ```
 
@@ -46,10 +44,9 @@
 
 ```html
 <div class="cta-box cta-jobseeker-indonesia" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
-<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">インドネシアで働きたい方へ</h3>
+<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">インドネシア転職への第一歩</h3>
 <p style="margin: 16px 0;">インドネシアの日系企業求人を掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
-<p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
+<p><a href="https://kyujin.careerlink.asia/indonesia/job/list" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">インドネシアの求人を見る</a></p>
 </div>
 ```
 
@@ -59,10 +56,9 @@
 
 ```html
 <div class="cta-box cta-jobseeker-sea" style="background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%); color: #fff; padding: 28px; margin: 30px 0; border-radius: 8px; text-align: center;">
-<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">東南アジアで働きたい方へ</h3>
+<h3 style="margin-top: 0; color: #fff; font-size: 1.3em;">東南アジア転職への第一歩</h3>
 <p style="margin: 16px 0;">タイ・ベトナムを中心に東南アジアの日系企業求人を掲載中。キャリアアドバイザーが転職をサポートします。</p>
-<p><a href="https://kyujin.careerlink.asia/register" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">無料会員登録はこちら</a></p>
-<p style="font-size: 0.85em; opacity: 0.9; margin-bottom: 0;">※登録無料・非公開求人あり</p>
+<p><a href="https://kyujin.careerlink.asia/job/list" style="display: inline-block; background: #fff; color: #e85a1c; padding: 14px 40px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1.1em;">求人を見る</a></p>
 </div>
 ```
 

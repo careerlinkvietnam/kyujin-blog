@@ -192,6 +192,18 @@ LPは「CVを最大化する装置」ではない。
 | 求職者向け | https://kyujin.careerlink.asia/register |
 | 企業向け | https://kyujin.careerlink.asia/register?type=employer |
 
+#### 国別求人一覧ページURL
+
+記事内で「〇〇の求人を見る」ボタンを設置する場合は、以下の正しいURLを使用すること。
+
+| 国 | 正しいURL |
+|----|----------|
+| タイ | https://kyujin.careerlink.asia/thailand/job/list |
+| ベトナム | https://kyujin.careerlink.asia/vietnam/job/list |
+| インドネシア | https://kyujin.careerlink.asia/indonesia/job/list |
+
+**注意**: `/jobs` ではなく `/job/list` が正しいパス。
+
 ### 4.4 レガシーCTAパターン（認識必須）
 
 以下のパターンは `cta-box` クラスを持たないが、**CTAとしてカウントする**。CTA数の上限（最大2個）を適用する際に含めること。
